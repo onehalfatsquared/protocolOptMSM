@@ -1,0 +1,16 @@
+Capsomers                               = 300
+Particle Bond Strength                  = 7
+HH Bond Strength                        = 1.3
+HP Bond Strength                        = 1.6
+Box Size                                = 120
+Sphere Radius                           = 8.3
+Cone Diameter                           = 7.7
+Time Step                               = 0.02
+Height                                  = 4.0
+Alpha                                   = 17.8
+Alpha Morse CC                          = 14.0
+Alpha Morse NC                          = 2.0
+Final Time                              = 800000
+Animation Time                          = 25
+kT                                      = 1.0
+Size Ratio                              = 0.77
